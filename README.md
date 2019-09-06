@@ -15,3 +15,14 @@ for feature extraction and classification. Further Keras Visualization(Keras-Vis
 used inorder to get Saliency Map of the given image. Finally a saliency map is generated
 with important regions.
 
+# Dataset
+
+CamVid Dataset ---> http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamSeq01/
+
+# Steps
+
+1) Go to VGGNet.py to train a VGGNet-16 model for semantic segmentation.
+
+2) Save the ouput images of Semantic Segmentation and give it as input to visual saliency detection.
+
+3)
