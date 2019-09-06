@@ -21,8 +21,10 @@ CamVid Dataset ---> http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamSeq01/
 
 # Steps
 
-1) Go to VGGNet.py to train a VGGNet-16 model for semantic segmentation.
+1) Go to vgg_model.py to train a VGGNet-16 model for semantic segmentation.
 
 2) Save the ouput images of Semantic Segmentation and give it as input to visual saliency detection.
 
-3)
+3) Then go to sal.ipynb python notebook for visual saliency detection.
+
+4) Whole the work is implemented in Google Collab.
