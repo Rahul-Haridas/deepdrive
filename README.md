@@ -28,3 +28,5 @@ CamVid Dataset ---> http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamSeq01/
 3) Then go to Saliency.ipynb python notebook for visual saliency detection.
 
 4) Whole the work is implemented in Google Collab.
+
+5) Extract Pictures.zip to get some input images to the saliency model.
